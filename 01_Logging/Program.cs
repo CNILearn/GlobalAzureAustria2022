@@ -14,10 +14,10 @@ using Microsoft.EntityFrameworkCore;
 using var host = Host.CreateDefaultBuilder(args)
     .ConfigureLogging(logging =>
     {
-        logging.AddJsonConsole(config =>
-        {
-            config.JsonWriterOptions = new JsonWriterOptions() { Indented = true };
-        });
+        //logging.AddJsonConsole(config =>
+        //{
+        //    config.JsonWriterOptions = new JsonWriterOptions() { Indented = true };
+        //});
         logging.SetMinimumLevel(LogLevel.Trace);
     })
     .ConfigureServices((context, services) =>

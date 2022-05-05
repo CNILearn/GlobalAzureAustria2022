@@ -4,8 +4,6 @@ namespace DiagnosticsSample;
 
 public class Runner
 {
-    internal static readonly ActivitySource activitySource = new("DiagnosticsSample", "1.0");
-
     private readonly ILogger _logger;
     private readonly IDbContextFactory<BooksContext> _contextFactory;
     
