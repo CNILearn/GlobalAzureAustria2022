@@ -8,6 +8,8 @@
 
 [CN innovation](https://www.cninnovation.com)
 
+My next conference (in-person) in May:
+
 [Thrive Conference in Slovenia](https://www.thriveconf.com/en/Pages/Home.aspx)
 
 You can use this registration code for a 25% discount: Nagel25
