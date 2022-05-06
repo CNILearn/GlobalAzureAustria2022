@@ -8,6 +8,10 @@
 
 [CN innovation](https://www.cninnovation.com)
 
+[Thrive Conference in Slovenia](https://www.thriveconf.com/en/Pages/Home.aspx)
+
+You can use this registration code for a 25% discount: Nagel25
+
 ## Code Samples
 
 * [Logging with .NET](01_Logging)
